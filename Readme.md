@@ -18,3 +18,5 @@ You can contribute to the project in following ways
 
 How to Contribute?
 To know about contribution process [Click Here!](https://github.com/sattwik21/Python-Practice/blob/master/Contributing.md)
+
+Please fo participate in Hacktober Fest 2022
